@@ -43,9 +43,9 @@ https://github.com/somyapriya/ReactNative-Todo/assets/34838498/66ac00be-c9f7-439
 ## Libraries used ##
 - React native
 - react-redux 
-- react-native-community/checkbox -  #### for checkbox ####
-- react-native-linear-gradient - #### for gradient ####
-- styled-components -  #### for styling ####
+- react-native-community/checkbox -  ## for checkbox ##
+- react-native-linear-gradient - ## for gradient ##
+- styled-components -  ## for styling ##
 
 
 
