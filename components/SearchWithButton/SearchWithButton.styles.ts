@@ -30,6 +30,7 @@ export const TextInputWrapperDescription = styled.TextInput`
 export const ErrorContainer = styled.Text`
   color: red;
   font-size: 14px;
+  margin-left:5px;
 `;
 
 export const Button = styled.TouchableOpacity`
@@ -55,7 +56,7 @@ export const ModalView = styled.View`
   position: absolute;
   background: white;
   border-radius: 10px;
-  height: 300px;
+  height: 350px;
   width: 100%;
   margin: 20px;
   flex-direction: column;
@@ -85,15 +86,6 @@ export const CancelText = styled.Text`
   font-size: 20px;
 `;
 
-export const BackDrop = styled.View`
-position: absolute;
-height: 100%;
-width: 100%;
-margin: 20px;
-background:#000
-z-index: 10000;
-opacity:0.2
-`;
 
 export const ButtonWrapper = styled.View`
   flex-direction: row;
