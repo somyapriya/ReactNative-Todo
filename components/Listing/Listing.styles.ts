@@ -24,7 +24,6 @@ export const ListWrapper = styled.View`
 `;
 export const Title = styled.Text`
   font-size: 18px;
-  font-color: white;
   margin-left:10px;
   font-weight: bold;
   width:220px;
@@ -52,7 +51,6 @@ padding:5px
 
 export const Desc = styled.Text`
   font-size: 14px;
-  font-color: white;
   margin-left:10px;
   margin:10px;
   width:220px;
