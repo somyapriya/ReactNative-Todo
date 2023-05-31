@@ -34,7 +34,10 @@ User also have ability to  mark that task as done  on clicking on check box or c
 All the task created can be visible on dashboard as List View. Redux store has been used so as to maintain local data.
 
 
-https://github.com/somyapriya/ReactNative-Todo/assets/34838498/386f009d-35cd-4cfd-b834-224b6b2a89bd
+
+https://github.com/somyapriya/ReactNative-Todo/assets/34838498/66ac00be-c9f7-4396-8845-89fc36e26f08
+
+
 
 
 ## Libraries used ##
